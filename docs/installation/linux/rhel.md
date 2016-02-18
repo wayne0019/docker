@@ -10,7 +10,7 @@ weight = -5
 +++
 <![end-metadata]-->
 
-# Red Hat Enterprise Linux
+## Red Hat Enterprise Linux
 
 Docker is supported on Red Hat Enterprise Linux 7. This page instructs you to
 install using Docker-managed release packages and installation mechanisms. Using
